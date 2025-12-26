@@ -3,7 +3,8 @@
 Agent Customizer - Creates project-specific agents
 Customizes agents based on engine choice and project requirements
 
-Author: Tuna Pamir (https://github.com/pamirtuna)
+Original Author: Tuna Pamir (https://github.com/pamirtuna)
+Maintainer: Umut Tunc Erol (https://github.com/umutterol)
 Project: Game Studio Sub-Agents
 License: MIT
 """

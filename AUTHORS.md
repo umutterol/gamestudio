@@ -1,6 +1,13 @@
 # Authors and Contributors
 
-## 🎮 Creator & Lead Developer
+## 🎮 Current Maintainer
+
+**Umut Tunc Erol** ([@umutterol](https://github.com/umutterol))
+- Plugin architecture and skills/agents system
+- Claude Code integration
+- Ongoing development and maintenance
+
+## 🏆 Original Creator
 
 **Tuna Pamir** ([@pamirtuna](https://github.com/pamirtuna))
 - Original creator of Game Studio Sub-Agents
@@ -11,7 +18,7 @@
 
 ## 🤝 About This Project
 
-Game Studio Sub-Agents was created by Tuna Pamir to democratize game development by providing AI-powered assistance to developers of all skill levels. The project aims to make professional game development workflows accessible to everyone - from solo indie developers to students learning game design.
+Game Studio Sub-Agents was originally created by Tuna Pamir to democratize game development by providing AI-powered assistance to developers of all skill levels. The project is now maintained by Umut Tunc Erol, continuing the mission to make professional game development workflows accessible to everyone.
 
 ### Vision
 "Empowering every game developer with an AI team that understands market dynamics, technical best practices, and creative excellence."
@@ -29,6 +36,7 @@ This project is released under the MIT License, making it free for everyone to u
 
 ## 🙏 Special Thanks
 
+- **Tuna Pamir** for creating the original Game Studio Sub-Agents
 - The game development community for continuous inspiration
 - Early adopters and testers who provide valuable feedback
 - Contributors who help improve the system
@@ -46,4 +54,4 @@ If you find Game Studio Sub-Agents helpful:
 ---
 
 *Game Studio Sub-Agents is a labor of love for the game development community.*
-*Created and maintained by Tuna Pamir.*
+*Originally created by Tuna Pamir, now maintained by Umut Tunc Erol.*

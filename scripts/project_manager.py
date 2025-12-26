@@ -3,7 +3,8 @@
 Game Studio Project Manager
 Manage multiple projects: status, resume, start over, freeze
 
-Author: Tuna Pamir (https://github.com/pamirtuna)
+Original Author: Tuna Pamir (https://github.com/pamirtuna)
+Maintainer: Umut Tunc Erol (https://github.com/umutterol)
 Project: Game Studio Sub-Agents
 License: MIT
 """

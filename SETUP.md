@@ -125,7 +125,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/pamirtuna/gamestudio-subagents.git
+git clone https://github.com/umutterol/gamestudio-subagents.git
 cd gamestudio-subagents
 
 # 2. Create a virtual environment (recommended)

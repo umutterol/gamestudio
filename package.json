@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "AI-Powered Game Development Team - Transform your game ideas into reality with specialized AI agents",
   "author": {
-    "name": "Tuna Pamir",
-    "url": "https://github.com/pamirtuna"
+    "name": "Umut Tunc Erol",
+    "url": "https://github.com/umutterol"
   },
+  "contributors": [
+    {
+      "name": "Tuna Pamir",
+      "url": "https://github.com/pamirtuna",
+      "role": "Original Creator"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pamirtuna/gamestudio-subagents.git"
+    "url": "git+https://github.com/umutterol/gamestudio-subagents.git"
   },
   "keywords": [
     "game-development",
@@ -20,13 +27,14 @@
     "artificial-intelligence",
     "development-tools",
     "automation",
-    "game-studio"
+    "game-studio",
+    "claude-code-plugin"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pamirtuna/gamestudio-subagents/issues"
+    "url": "https://github.com/umutterol/gamestudio-subagents/issues"
   },
-  "homepage": "https://github.com/pamirtuna/gamestudio-subagents#readme",
+  "homepage": "https://github.com/umutterol/gamestudio-subagents#readme",
   "engines": {
     "python": ">=3.8"
   },

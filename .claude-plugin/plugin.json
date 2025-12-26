@@ -1,0 +1,31 @@
+{
+  "name": "gamestudio",
+  "description": "AI-powered game development studio with specialized agents for design, development, art, market intelligence, and QA. Supports Godot, Unity, and Unreal Engine.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Umut Tunc Erol",
+    "url": "https://github.com/umutterol"
+  },
+  "contributors": [
+    {
+      "name": "Tuna Pamir",
+      "url": "https://github.com/pamirtuna",
+      "role": "Original Creator"
+    }
+  ],
+  "keywords": [
+    "game-development",
+    "godot",
+    "unity",
+    "unreal",
+    "game-design",
+    "gamedev",
+    "agents",
+    "studio"
+  ],
+  "homepage": "https://github.com/umutterol/gamestudio-subagents",
+  "license": "MIT",
+  "engines": {
+    "claude-code": ">=1.0.0"
+  }
+}

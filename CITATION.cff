@@ -1,19 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+  - family-names: "Erol"
+    given-names: "Umut Tunc"
   - family-names: "Pamir"
     given-names: "Tuna"
-    orcid: ""
 title: "Game Studio Sub-Agents: AI-Powered Game Development Team"
 version: 1.0.0
 date-released: 2024-01-01
-url: "https://github.com/pamirtuna/gamestudio-subagents"
-repository-code: "https://github.com/pamirtuna/gamestudio-subagents"
+url: "https://github.com/umutterol/gamestudio-subagents"
+repository-code: "https://github.com/umutterol/gamestudio-subagents"
 license: MIT
 keywords:
   - game development
   - artificial intelligence
   - ai agents
+  - claude code plugin
   - godot
   - unity
   - unreal engine
@@ -21,8 +23,7 @@ keywords:
   - development tools
 abstract: >-
   Game Studio Sub-Agents is an AI-powered game development system that provides
-  developers with a team of 12 specialized AI agents. Each agent handles specific
+  developers with a team of 5 specialized AI agents. Each agent handles specific
   aspects of game development from market analysis to QA testing, supporting
   Godot, Unity, and Unreal Engine with engine-specific optimizations and best
-  practices. The system enables market-driven, data-informed game development
-  accessible to developers of all skill levels.
+  practices. Available as a Claude Code plugin for easy installation and use.
