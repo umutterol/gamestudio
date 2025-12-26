@@ -1,4 +1,4 @@
-# Game Studio Sub-Agents
+# Game Studio
 
 **AI-Powered Game Development Team for Claude Code**
 
@@ -25,31 +25,31 @@ Transform your game ideas into reality with an intelligent team of specialized A
 ### Option 1: From Marketplace
 
 ```bash
-/plugin marketplace add umutterol/gamestudio-subagents
+/plugin marketplace add umutterol/gamestudio
 /plugin install gamestudio
 ```
 
 ### Option 2: Direct GitHub Install
 
 ```bash
-/plugin add umutterol/gamestudio-subagents
+/plugin add umutterol/gamestudio
 ```
 
 ### Option 3: Manual Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/umutterol/gamestudio-subagents.git
+git clone https://github.com/umutterol/gamestudio.git
 
 # Copy to your project
-cp -r gamestudio-subagents/.claude-plugin your-project/
-cp -r gamestudio-subagents/commands your-project/.claude/
-cp -r gamestudio-subagents/agents-plugin your-project/.claude/agents/
+cp -r gamestudio/.claude-plugin your-project/
+cp -r gamestudio/commands your-project/.claude/
+cp -r gamestudio/agents-plugin your-project/.claude/agents/
 
 # Or install globally
-cp -r gamestudio-subagents/.claude-plugin ~/.claude/
-cp -r gamestudio-subagents/commands ~/.claude/commands/
-cp -r gamestudio-subagents/agents-plugin ~/.claude/agents/
+cp -r gamestudio/.claude-plugin ~/.claude/
+cp -r gamestudio/commands ~/.claude/commands/
+cp -r gamestudio/agents-plugin ~/.claude/agents/
 ```
 
 ## Usage
@@ -156,7 +156,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
 
-- [GitHub Issues](https://github.com/umutterol/gamestudio-subagents/issues)
+- [GitHub Issues](https://github.com/umutterol/gamestudio/issues)
 
 ---
 

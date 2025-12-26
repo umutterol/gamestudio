@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": {
     "name": "Umut Tunc Erol",
-    "url": "https://github.com/umutterol"
+    "email": "umutterol@gmail.com"
   },
   "contributors": [
     {
@@ -23,7 +23,7 @@
     "agents",
     "studio"
   ],
-  "homepage": "https://github.com/umutterol/gamestudio-subagents",
+  "homepage": "https://github.com/umutterol/gamestudio",
   "license": "MIT",
   "engines": {
     "claude-code": ">=1.0.0"

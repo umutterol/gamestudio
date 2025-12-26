@@ -1,4 +1,4 @@
-# Contributing to Game Studio Sub-Agents
+# Contributing to Game Studio
 
 *Originally created by [Tuna Pamir](https://github.com/pamirtuna), maintained by [Umut Tunc Erol](https://github.com/umutterol)*
 
@@ -31,8 +31,8 @@ Thank you for your interest in contributing! This project aims to make game deve
 
 ```bash
 # Fork and clone
-git clone https://github.com/umutterol/gamestudio-subagents.git
-cd gamestudio-subagents
+git clone https://github.com/umutterol/gamestudio.git
+cd gamestudio
 
 # Create branch
 git checkout -b feature/your-feature-name
@@ -47,7 +47,7 @@ git push origin feature/your-feature-name
 ## Project Structure
 
 ```
-gamestudio-subagents/
+gamestudio/
 ├── .claude-plugin/      # Plugin metadata
 │   └── plugin.json
 ├── agents-plugin/       # Agent definitions

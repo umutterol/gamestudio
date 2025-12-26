@@ -10,7 +10,7 @@
 ## 🏆 Original Creator
 
 **Tuna Pamir** ([@pamirtuna](https://github.com/pamirtuna))
-- Original creator of Game Studio Sub-Agents
+- Original creator of Game Studio
 - System architecture and design
 - Agent coordination framework
 - Engine-specific implementations
@@ -18,7 +18,7 @@
 
 ## 🤝 About This Project
 
-Game Studio Sub-Agents was originally created by Tuna Pamir to democratize game development by providing AI-powered assistance to developers of all skill levels. The project is now maintained by Umut Tunc Erol, continuing the mission to make professional game development workflows accessible to everyone.
+Game Studio was originally created by Tuna Pamir to democratize game development by providing AI-powered assistance to developers of all skill levels. The project is now maintained by Umut Tunc Erol, continuing the mission to make professional game development workflows accessible to everyone.
 
 ### Vision
 "Empowering every game developer with an AI team that understands market dynamics, technical best practices, and creative excellence."
@@ -36,7 +36,7 @@ This project is released under the MIT License, making it free for everyone to u
 
 ## 🙏 Special Thanks
 
-- **Tuna Pamir** for creating the original Game Studio Sub-Agents
+- **Tuna Pamir** for creating the original Game Studio
 - The game development community for continuous inspiration
 - Early adopters and testers who provide valuable feedback
 - Contributors who help improve the system
@@ -44,7 +44,7 @@ This project is released under the MIT License, making it free for everyone to u
 
 ## 🌟 Support the Project
 
-If you find Game Studio Sub-Agents helpful:
+If you find Game Studio helpful:
 - ⭐ Star the repository
 - 🔄 Share with fellow developers
 - 🐛 Report issues and bugs
@@ -53,5 +53,5 @@ If you find Game Studio Sub-Agents helpful:
 
 ---
 
-*Game Studio Sub-Agents is a labor of love for the game development community.*
+*Game Studio is a labor of love for the game development community.*
 *Originally created by Tuna Pamir, now maintained by Umut Tunc Erol.*

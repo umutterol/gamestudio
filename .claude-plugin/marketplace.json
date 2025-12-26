@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gamestudio-marketplace",
+  "version": "1.0.0",
+  "description": "Game Studio - AI-powered game development team for Claude Code",
+  "owner": {
+    "name": "Umut Tunc Erol",
+    "email": "umutterol@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "gamestudio",
+      "description": "AI-powered game development studio with 5 specialized agents (game-design, game-dev, game-art, market-intel, qa) and 4 slash commands (/new-game, /design, /prototype, /develop). Supports Godot, Unity, and Unreal Engine.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Umut Tunc Erol",
+        "email": "umutterol@gmail.com"
+      },
+      "source": ".",
+      "category": "development",
+      "tags": ["game-development", "godot", "unity", "unreal", "agents"]
+    }
+  ]
+}
