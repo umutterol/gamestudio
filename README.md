@@ -13,7 +13,7 @@ Transform your game ideas into reality with an intelligent team of specialized A
 
 ## ✨ Features
 
-- **🤖 12 Specialized Agents**: Each focusing on their expertise (design, art, programming, QA, market analysis, data science)
+- **🤖 5 Specialized Agents**: Game Design, Game Dev, Game Art, Market Intel, QA
 - **📊 Data-Driven Development**: Market analysis and analytics from day one
 - **🎯 Multiple Development Modes**: Design-only, Prototype, or Full Development
 - **🏗️ Automatic Project Structure**: Organized folders and documentation
@@ -22,10 +22,70 @@ Transform your game ideas into reality with an intelligent team of specialized A
 - **🔄 Milestone Tracking**: Automated progress monitoring and reporting
 - **📈 Market Intelligence**: Competitive analysis and market validation
 - **🎯 Engine-Optimized**: Godot, Unity, and Unreal best practices built-in
-- **🤖 Smart Agents**: Project-specific agents with engine expertise
-- **📋 Custom Development Rules**: Define project-specific coding standards and practices
+- **📋 Slash Commands**: `/new-game`, `/design`, `/prototype`, `/develop`
 
-## 🚀 Quick Start
+## 🔌 Plugin Installation (Recommended)
+
+The easiest way to use Game Studio is as a **Claude Code Plugin**.
+
+### Option 1: Install from Marketplace
+
+```bash
+# Add the Game Studio marketplace
+/plugin marketplace add AltayTech/gamestudio-subagents
+
+# Install the plugin
+/plugin install gamestudio
+```
+
+### Option 2: Direct GitHub Install
+
+```bash
+/plugin add AltayTech/gamestudio-subagents
+```
+
+### Option 3: Manual Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/AltayTech/gamestudio-subagents.git
+
+# Copy the plugin files to your project
+cp -r gamestudio-subagents/.claude-plugin your-project/
+cp -r gamestudio-subagents/commands your-project/.claude/
+cp -r gamestudio-subagents/agents-plugin your-project/.claude/agents/
+
+# Or install globally for all projects
+cp -r gamestudio-subagents/.claude-plugin ~/.claude/
+cp -r gamestudio-subagents/commands ~/.claude/commands/
+cp -r gamestudio-subagents/agents-plugin ~/.claude/agents/
+```
+
+### Using the Plugin
+
+Once installed, use the slash commands:
+
+```bash
+# Start a new game project
+/new-game
+
+# Enter design phase
+/design
+
+# Build a prototype
+/prototype
+
+# Full development mode
+/develop
+```
+
+Or invoke agents directly:
+```bash
+claude "Use the game-design agent to create a GDD for my platformer"
+claude "Use the market-intel agent to analyze the roguelike market"
+```
+
+## 🚀 Quick Start (Manual Setup)
 
 ### Prerequisites
 Before starting, ensure you have these installed:
@@ -126,29 +186,24 @@ That's it! Your AI game development team is ready to help.
 
 ## 🎭 Meet Your AI Team
 
-### Management
-- **🎯 Master Orchestrator**: System coordinator and project initializer
-- **📊 Producer Agent**: Project manager ensuring timelines and quality
+### 5 Specialized Agents
 
-### Intelligence Team
-- **📈 Market Analyst**: Competitive analysis and market intelligence
-- **🔬 Data Scientist**: Analytics, metrics, and predictive modeling
+| Agent | Role | Expertise |
+|-------|------|-----------|
+| **🎨 game-design** | Vision & Features | GDD, mechanics, content design, user stories |
+| **⚙️ game-dev** | Implementation | Core systems, game feel, optimization, code |
+| **🖼️ game-art** | Visual Direction | Art style, shaders, UI/UX, accessibility |
+| **📈 market-intel** | Market & Analytics | Competitors, metrics, A/B testing, projections |
+| **🐛 qa** | Quality Assurance | Testing, bugs, performance, release validation |
 
-### Design Team
-- **🎨 Sr Game Designer**: Vision holder and systems architect  
-- **📝 Mid Game Designer**: Content creator and implementation specialist
+### 4 Slash Commands
 
-### Engineering Team
-- **⚙️ Mechanics Developer**: Core gameplay systems engineer
-- **✨ Game Feel Developer**: Polish and game juice specialist
-
-### Art Team
-- **🖼️ Sr Game Artist**: Art director defining visual style
-- **🔧 Technical Artist**: Shaders, VFX, and optimization expert
-- **📱 UI/UX Agent**: Interface and user experience designer
-
-### Quality
-- **🐛 QA Agent**: Testing, validation, and quality assurance
+| Command | Purpose |
+|---------|---------|
+| `/new-game` | Initialize a new game project |
+| `/design` | Enter design phase - documentation focus |
+| `/prototype` | Rapid proof of concept development |
+| `/develop` | Full production pipeline |
 
 ## 📚 How It Works
 
