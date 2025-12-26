@@ -2,7 +2,7 @@
 
 **AI-Powered Game Development Team in Your Terminal**
 
-*Created by [Tuna Pamir](https://github.com/pamirtuna) - Empowering game developers with AI assistance*
+*Originally created by [Tuna Pamir](https://github.com/pamirtuna), now maintained by [Umut Tunc Erol](https://github.com/umutterol)*
 
 Transform your game ideas into reality with an intelligent team of specialized AI agents. Each agent is an expert in their domain - from game design to QA testing - working together seamlessly to help you create games for any platform.
 
@@ -159,7 +159,7 @@ claude auth login
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/pamirtuna/gamestudio-subagents.git
+git clone https://github.com/umutterol/gamestudio-subagents.git
 cd gamestudio-subagents
 
 # 2. Optional: Create virtual environment (recommended)
@@ -578,9 +578,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 🙏 Acknowledgments
 
-**Created by Tuna Pamir** - This project represents a vision to democratize game development through AI assistance.
+**Originally created by Tuna Pamir, now maintained by Umut Tunc Erol** - This project represents a vision to democratize game development through AI assistance.
 
 Special thanks to:
+- **Tuna Pamir** for creating the original Game Studio Sub-Agents
 - Claude (Anthropic) for powering the AI capabilities
 - The game development community for continuous inspiration
 - Early adopters and testers for valuable feedback
@@ -618,7 +619,7 @@ This validates:
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/pamirtuna/gamestudio-subagents/issues)
+- **Issues**: [GitHub Issues](https://github.com/umutterol/gamestudio-subagents/issues)
 - **Discussions**: Coming Soon
 - **Wiki**: Coming Soon
 
@@ -652,11 +653,14 @@ Join our growing community:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Tuna Pamir**
+**Umut Tunc Erol** (Maintainer)
+- GitHub: [@umutterol](https://github.com/umutterol)
+- Project: [Game Studio Sub-Agents](https://github.com/umutterol/gamestudio-subagents)
+
+**Tuna Pamir** (Original Creator)
 - GitHub: [@pamirtuna](https://github.com/pamirtuna)
-- Project: [Game Studio Sub-Agents](https://github.com/pamirtuna/gamestudio-subagents)
 
 This project is free and open source for the game development community. If you find it helpful, please consider:
 - ⭐ Starring the repository
@@ -668,4 +672,4 @@ This project is free and open source for the game development community. If you 
 
 **Ready to build your dream game?** Get started in minutes with our [Quick Start](#-quick-start) guide!
 
-*Made with ❤️ by Tuna Pamir for game developers worldwide*
+*Originally created by Tuna Pamir, maintained with ❤️ by Umut Tunc Erol for game developers worldwide*

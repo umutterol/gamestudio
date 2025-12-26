@@ -3,7 +3,8 @@
 Game Studio Project Initializer
 Creates project structure and configures agents for game development
 
-Author: Tuna Pamir (https://github.com/pamirtuna)
+Original Author: Tuna Pamir (https://github.com/pamirtuna)
+Maintainer: Umut Tunc Erol (https://github.com/umutterol)
 Project: Game Studio Sub-Agents
 License: MIT
 """

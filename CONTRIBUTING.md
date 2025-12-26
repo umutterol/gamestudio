@@ -1,37 +1,37 @@
 # Contributing to Game Studio Sub-Agents
 
-*A project by [Tuna Pamir](https://github.com/pamirtuna)*
+*Originally created by [Tuna Pamir](https://github.com/pamirtuna), maintained by [Umut Tunc Erol](https://github.com/umutterol)*
 
 Thank you for your interest in contributing! This project aims to make game development accessible to everyone through AI assistance.
 
 ## How to Contribute
 
-### 🐛 Reporting Bugs
+### Reporting Bugs
 - Use the GitHub Issues tab
 - Include your project-config.json (remove sensitive data)
 - Describe expected vs actual behavior
 - Include error messages if any
 
-### 💡 Suggesting Features
+### Suggesting Features
 - Check existing issues first
 - Describe the problem your feature solves
 - Provide use case examples
 - Consider implementation complexity
 
-### 📝 Improving Documentation
+### Improving Documentation
 - Fix typos and clarify instructions
 - Add examples and use cases
 - Translate documentation
 - Create video tutorials
 
-### 🤖 Creating New Agents
+### Creating New Agents
 1. Identify a gap in current capabilities
 2. Define agent responsibilities clearly
 3. Follow existing agent template structure
 4. Integrate with orchestrator and producer
 5. Add documentation and examples
 
-### 🎮 Sharing Your Games
+### Sharing Your Games
 - Add your game to the showcase
 - Share development experiences
 - Provide feedback on agent performance
@@ -41,7 +41,7 @@ Thank you for your interest in contributing! This project aims to make game deve
 
 ```bash
 # Fork and clone
-git clone https://github.com/pamirtuna/gamestudio-subagents.git
+git clone https://github.com/umutterol/gamestudio-subagents.git
 cd gamestudio-subagents
 
 # Create branch

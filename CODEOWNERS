@@ -1,16 +1,17 @@
 # CODEOWNERS for Game Studio Sub-Agents
 # This file defines who owns and must approve changes to this repository
-# All changes require approval from Tuna Pamir
+# Originally created by Tuna Pamir, now maintained by Umut Tunc Erol
 
-# Global ownership - Tuna Pamir owns everything
-* @pamirtuna
+# Global ownership - Umut Tunc Erol owns everything
+* @umutterol
 
-# Specific ownership patterns (optional, but adds extra protection)
-/agents/ @pamirtuna
-/scripts/ @pamirtuna
-/templates/ @pamirtuna
-/engine_configs/ @pamirtuna
-*.py @pamirtuna
-*.md @pamirtuna
-
-# No one else can approve changes without explicit permission
+# Specific ownership patterns
+/agents/ @umutterol
+/agents-plugin/ @umutterol
+/scripts/ @umutterol
+/templates/ @umutterol
+/engine_configs/ @umutterol
+/commands/ @umutterol
+/.claude-plugin/ @umutterol
+*.py @umutterol
+*.md @umutterol
