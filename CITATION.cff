@@ -5,11 +5,11 @@ authors:
     given-names: "Umut Tunc"
   - family-names: "Pamir"
     given-names: "Tuna"
-title: "Game Studio Sub-Agents: AI-Powered Game Development Team"
+title: "Game Studio: AI-Powered Game Development Team"
 version: 1.0.0
 date-released: 2024-01-01
-url: "https://github.com/umutterol/gamestudio-subagents"
-repository-code: "https://github.com/umutterol/gamestudio-subagents"
+url: "https://github.com/umutterol/gamestudio"
+repository-code: "https://github.com/umutterol/gamestudio"
 license: MIT
 keywords:
   - game development

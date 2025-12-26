@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "gamestudio-marketplace",
   "version": "1.0.0",
-  "description": "Game Studio Sub-Agents - AI-powered game development team for Claude Code",
+  "description": "Game Studio - AI-powered game development team for Claude Code",
   "owner": {
     "name": "Umut Tunc Erol",
     "email": "umutterol@gmail.com"

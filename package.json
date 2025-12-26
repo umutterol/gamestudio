@@ -1,5 +1,5 @@
 {
-  "name": "gamestudio-subagents",
+  "name": "gamestudio",
   "version": "1.0.0",
   "description": "AI-Powered Game Development Team - Claude Code Plugin with specialized agents for game design, development, art, market intelligence, and QA",
   "author": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/umutterol/gamestudio-subagents.git"
+    "url": "git+https://github.com/umutterol/gamestudio.git"
   },
   "keywords": [
     "game-development",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/umutterol/gamestudio-subagents/issues"
+    "url": "https://github.com/umutterol/gamestudio/issues"
   },
-  "homepage": "https://github.com/umutterol/gamestudio-subagents#readme"
+  "homepage": "https://github.com/umutterol/gamestudio#readme"
 }
