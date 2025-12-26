@@ -32,7 +32,7 @@ The easiest way to use Game Studio is as a **Claude Code Plugin**.
 
 ```bash
 # Add the Game Studio marketplace
-/plugin marketplace add AltayTech/gamestudio-subagents
+/plugin marketplace add umutterol/gamestudio-subagents
 
 # Install the plugin
 /plugin install gamestudio
@@ -41,14 +41,14 @@ The easiest way to use Game Studio is as a **Claude Code Plugin**.
 ### Option 2: Direct GitHub Install
 
 ```bash
-/plugin add AltayTech/gamestudio-subagents
+/plugin add umutterol/gamestudio-subagents
 ```
 
 ### Option 3: Manual Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/AltayTech/gamestudio-subagents.git
+git clone https://github.com/umutterol/gamestudio-subagents.git
 
 # Copy the plugin files to your project
 cp -r gamestudio-subagents/.claude-plugin your-project/
